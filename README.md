@@ -1,10 +1,10 @@
-# TechForge Assets
+# Birbal Assets
 
-> Official assets website for **TechForge**, my team during the 21-day AI + Robotics bootcamp at IIIT-Delhi.
+> Official assets website created during the 21-day AI + Robotics bootcamp at IIIT-Delhi.
 
 ## About
 
-**TechForge Assets** is the dedicated assets website created for **Team TechForge** during the intensive **21-day AI + Robotics bootcamp at IIIT-Delhi**.
+**Birbal Assets** is the dedicated assets website created for our team during the intensive **21-day AI + Robotics bootcamp at IIIT-Delhi**.
 
 The website was created to organize, present, and manage the digital assets associated with our team and robotics project throughout the bootcamp.
 
@@ -12,9 +12,9 @@ This repository is primarily an **assets and presentation website**, rather than
 
 ---
 
-# TechForge
+# Team
 
-**TechForge** was the team name used during the 21-day AI + Robotics bootcamp.
+The team worked together during the 21-day AI + Robotics bootcamp.
 
 The team worked together throughout the practical phase of the program, combining:
 
@@ -61,7 +61,7 @@ The final shortlisted participants entered an intensive **21-day practical AI + 
                   Team Formation
                            │
                            ▼
-                     TechForge
+                   Birbal Assets
                            │
                            ▼
               Practical Development

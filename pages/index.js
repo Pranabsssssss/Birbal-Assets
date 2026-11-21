@@ -19,7 +19,7 @@ export default function Home(){
     <div>
       <header className="topbar">
         <div className="brand">
-          <h1>TechForge</h1>
+          <h1>Birbal Assets</h1>
           <p className="muted">Team asset library</p>
         </div>
         <div className="controls">
@@ -45,7 +45,7 @@ export default function Home(){
         </section>
       </main>
 
-      <footer className="footer">TechForge · Next.js asset viewer</footer>
+      <footer className="footer">Birbal Assets · Next.js asset viewer</footer>
     </div>
   )
 }
